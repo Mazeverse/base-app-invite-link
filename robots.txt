@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://base-app-invite-link.vercel.app/sitemap.xml
